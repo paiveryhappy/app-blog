@@ -4,7 +4,7 @@ import { IoMdArrowBack } from "react-icons/io";
 import { Link } from "react-router-dom";
 import axios from "axios";
 import { useForm } from "react-hook-form";
-import Navbar from "../home/Navbar";
+import Navbar from "./Navbar";
 import greenCard from "../../assets/images/green-card.jpg";
 import {
   FormControl,
